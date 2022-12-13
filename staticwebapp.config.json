@@ -1,4 +1,11 @@
 {
+  {
+  "networking": {
+    "allowedIpRanges": [
+      "43.247.126.46/32"
+    ]
+  }
+  },
   "routes": [
     {
       "route": "/static/*",
